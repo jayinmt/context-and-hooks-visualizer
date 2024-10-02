@@ -24,7 +24,7 @@ The React Context and Hooks Visualizer is a tool that allows users to visualize 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jaydxyz/context-hooks-visualizer.git
+   git clone https://github.com/jayinmt/context-hooks-visualizer.git
    ```
 
 2. Install the dependencies:
